@@ -1,0 +1,14 @@
+{
+  "key.category.donut.client": "Donut Client",
+  "key.donut.open_gui": "Open Donut GUI",
+  "key.donut.toggle_freecam": "Toggle Freecam",
+  "key.donut.open_autobuilder": "Open AutoBuilder",
+  "key.donut.toggle_chunk_finder": "Toggle Base Finder",
+  "key.donut.toggle_fullbright": "Toggle Fullbright",
+  "key.donut.toggle_fly": "Toggle Fly",
+  "key.donut.toggle_progress_bar": "Toggle Progress Bar",
+  "key.donut.toggle_name_hider": "Toggle Name Hider",
+  "key.donut.toggle_hotbar": "Toggle Hotbar",
+  "key.donut.toggle_light_debug": "Toggle Light Debug",
+  "key.donut.toggle_amethyst": "Toggle Amethyst Scanner"
+}
